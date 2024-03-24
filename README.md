@@ -19,7 +19,6 @@
 <img src="https://i.imgur.com/DhItfPT.png" alt="mysql" width="55" height="37" />
 <img src="https://i.imgur.com/Vue1PQc.png" alt="postgrsql" width="43" height="40" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="nodejs" width="60" height="40" />
-<img src=""
 <img src="https://i.imgur.com/xRPAKSY.png" alt="nextjs" width="41" height="41" />
 <!--<img src="https://i.imgur.com/bg9mF8Z.png" alt="docker" width="43" height="40" /> -->
 <!-- -->
