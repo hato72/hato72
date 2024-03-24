@@ -15,9 +15,6 @@
 <a href="https://go.dev/" target="_blank" rel=”noopener”> 
 <img src="https://i.imgur.com/FfxuBai.png" alt="go" width="30" height="40" /></a>
 
-<a href="https://ja.wikipedia.org/wiki/C%2B%2B" target="_blank"> 
-<img src="" width="0" height="40"/></a> 
-
 <a href="https://www.postgresql.org/" target="_blank" rel=”noopener”> 
 <img src="https://i.imgur.com/Vue1PQc.png" alt="postgrsql" width="43" height="40" /></a>
 
