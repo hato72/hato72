@@ -12,33 +12,27 @@
 <img src="" width="0" height="40"/></a> 
 -->
 
-<a href="https://go.dev/" target="_blank" rel=”noopener”> 
+
 <img src="https://i.imgur.com/FfxuBai.png" alt="go" width="30" height="40" /></a>
 
-<a href="https://www.postgresql.org/" target="_blank" rel=”noopener”> 
+
 <img src="https://i.imgur.com/Vue1PQc.png" alt="postgrsql" width="43" height="40" /></a>
 
-<a href="https://nodejs.org/ja/" target="_blank" rel=”noopener”> 
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="nodojs" width="60" height="40" /></a>
 
-<a href="https://www.mysql.com/jp/" target="_blank" rel=”noopener”> 
+
 <img src="https://i.imgur.com/DhItfPT.png" alt="mysql" width="55" height="37" /></a>
 
-<!--
-<a href="https://ja.wikipedia.org/wiki/C%2B%2B" target="_blank"> 
-<img src="" width="0" height="40"/></a> 
--->
 
-<a href="https://www.typescriptlang.org" target="_blank" rel=”noopener”> 
 <img src="https://miro.medium.com/max/816/1*TpbxEQy4ckB-g31PwUQPlg.png" alt="typescript" width="40" height="40" /></a>
 
-<a href="https://www.java.com" target="_blank" rel=”noopener”> 
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
 
-<a href="https://nextjs.org/" target="_blank" rel=”noopener”> 
 <img src="https://i.imgur.com/xRPAKSY.png" alt="nextjs" width="41" height="41" /></a>
  
-<a href="https://www.docker.com/" target="_blank" rel=”noopener”> 
+
 <img src="https://i.imgur.com/bg9mF8Z.png" alt="docker" width="43" height="40" /></a>
 
 
