@@ -14,11 +14,7 @@
 
 
 <img src="https://i.imgur.com/FfxuBai.png" alt="go" width="30" height="40" /></a>
-
-
 <img src="https://i.imgur.com/Vue1PQc.png" alt="postgrsql" width="43" height="40" /></a>
-
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="nodojs" width="60" height="40" /></a>
 
 
