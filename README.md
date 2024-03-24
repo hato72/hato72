@@ -28,32 +28,18 @@
 <a href="https://ja.wikipedia.org/wiki/C%2B%2B" target="_blank"> 
 <img src="" width="0" height="40"/></a> 
 
-
-
-
-
 <a href="https://www.typescriptlang.org" target="_blank" rel=”noopener”> 
 <img src="https://miro.medium.com/max/816/1*TpbxEQy4ckB-g31PwUQPlg.png" alt="typescript" width="40" height="40" /></a>
-
-
 
 <a href="https://www.java.com" target="_blank" rel=”noopener”> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
 
-
 <a href="https://nextjs.org/" target="_blank" rel=”noopener”> 
 <img src="https://i.imgur.com/xRPAKSY.png" alt="nextjs" width="41" height="41" /></a>
-
-<!-- <a href="https://www.mysql.com/jp/" target="_blank" rel=”noopener”> 
-<img src="https://i.imgur.com/72g3zfk.png" alt="flutter" width="45" height="37" /></a> -->
  
-
-
 <a href="https://www.docker.com/" target="_blank" rel=”noopener”> 
 <img src="https://i.imgur.com/bg9mF8Z.png" alt="docker" width="43" height="40" /></a>
 
-<!-- <a href="https://www.w3schools.com/cpp/" target="_blank">
-<img src="https://imgur.com/26FImOK.png" alt="cplusplus" width="35" height="40"/></a>-->
 
 
 <!--
