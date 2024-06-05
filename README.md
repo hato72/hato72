@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 -->
 
 ## Self-introduction 
-[自己紹介資料](https://www.canva.com/design/DAF574sieGw/li2lxoA72ITE3MXADvLcpw/view?utm_content=DAF574sieGw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+[自己紹介スライド](https://www.canva.com/design/DAF574sieGw/li2lxoA72ITE3MXADvLcpw/view?utm_content=DAF574sieGw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
